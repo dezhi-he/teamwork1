@@ -1,7 +1,7 @@
-function fu()
+function yu()
 {
 	x=document.getElementById("member2");  // 找到元素
-	x.innerHTML="Chengze Fu";    // 改变内容
+	x.innerHTML="Pengfei Yu";    // 改变内容
 }
 function he()
 {
