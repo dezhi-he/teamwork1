@@ -17,15 +17,15 @@ td{
     width: 100px;
     height: 100px;
 }
-#black{
+.black{
     background-color:black;
 }
-#white{
+.white{
     background-color:white;
 }
-#redpiece{
+.redpiece{
     
 }
-#blackpiece{
+.blackpiece{
     
 }
